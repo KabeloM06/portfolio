@@ -65,7 +65,7 @@ const menu = [
       category: "Website",
       tech: "WORDPRESS",
       img: "../src/images/portfolio-images/IMG_20211029_092928.jpg",
-      desc: `This is the website you are currently on. Tailwind's mobile first nature created a lot of unexpected bugs I had to fix, including the mobile version on the toggle menu`,
+      desc: `This is a live website built using WordPress. It is for a one person services business. The main plugin used was Elementor. There is no GitHub repo for this website`,
       git: "#",
       demo: "https://www.indalohealing.com/",
     },
