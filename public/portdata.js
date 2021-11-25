@@ -1,16 +1,7 @@
 const menu = [
+   
     {
       id: 1,
-      title: "Quizz App",
-      category: "App",
-      tech: "HTML, CSS, JS",
-      img: "../src/images/portfolio-images/IMG_20211029_092857.jpg",
-      desc: `A simple quizz app that hosts the questions in a JavaScript array. This was my first time working with arrays `,
-      git: "https://github.com/KabeloM06/quizz-app",
-      demo: "https://kabelo-quizz-app.netlify.app/",
-    },
-    {
-      id: 2,
       title: "KingWolf",
       category: "Website",
       tech: "HTML, CSS, JS, JQUERY",
@@ -19,28 +10,9 @@ const menu = [
       git: "https://github.com/KabeloM06/kabelom06.github.io",
       demo: "https://kabelom06.github.io/",
     },
+   
     {
-      id: 3,
-      title: "Drum Project",
-      category: "App",
-      tech: "JS",
-      img: "../src/images/portfolio-images/IMG_20211029_092946.jpg",
-      desc: `This was a JavaScript project to play a drum kit online. You can play sounds by either clicking on an image or pressing the corresponding key. I built this to practice my switch statements `,
-      git: "https://github.com/KabeloM06/drum-kit",
-      demo: "https://kabelom06.github.io/drum-kit/",
-    },
-    {
-      id: 5,
-      title: "Todo App",
-      category: "App",
-      tech: "HTML, CSS, JS",
-      img: "../src/images/portfolio-images/IMG_20211029_093023.jpg",
-      desc: `A todo app project to practice my JavaScript. Getting the functionality working sent me searching all over the internet. It finally works`,
-      git: "https://github.com/KabeloM06/todo-js",
-      demo: "https://kabelo-todos-js.netlify.app/",
-    },
-    {
-      id: 6,
+      id: 2,
       title: "Blog Website",
       category: "Website",
       tech: "HTML, CSS, JQUERY",
@@ -49,18 +21,9 @@ const menu = [
       git: "https://github.com/KabeloM06/blog-practice",
       demo: "https://kabelom06.github.io/blog-practice/",
     },
+  
     {
-      id: 8,
-      title: "Task Tracker",
-      category: "App",
-      tech: "REACT",
-      img: "../src/images/portfolio-images/IMG_20211029_105707.jpg",
-      desc: `My first React App. I used this project to come to grips with how React works. Deploying the app was a lot different to what I was used to`,
-      git: "https://github.com/KabeloM06/task-tracker-react",
-      demo: "http://kabelom06.github.io/task-tracker-react",
-    },
-    {
-      id: 9,
+      id: 3,
       title: "Indalo Healing",
       category: "Website",
       tech: "WORDPRESS",
@@ -70,7 +33,7 @@ const menu = [
       demo: "https://www.indalohealing.com/",
     },
     {
-      id: 10,
+      id: 4,
       title: "This Website",
       category: "Website",
       tech: "HTML, TAILWIND, JS",
